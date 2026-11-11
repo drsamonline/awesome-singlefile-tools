@@ -1,7 +1,5 @@
 # Awesome Single-File Tools [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa20e105be61d1284d73385f/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![License: MIT](https://img.shields.io/badge/license-MIT-22c55e)](LICENSE)
-
 > A curated collection of zero-dependency, local-first, single-file HTML tools, productivity widgets, and platform frameworks designed for digital sovereignty, total privacy, and ultimate portability.
 
 Single-file HTML tools run natively in any modern browser—requiring no server setup, no `npm install`, no complex build pipelines, and zero telemetry. Just double-click, inspect, edit, and maintain full ownership of your software and data.
